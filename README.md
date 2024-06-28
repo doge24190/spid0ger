@@ -1,6 +1,6 @@
 # Spid0Ger
 
-![](https://img.shields.io/github/tag/pandao/editor.md.svg)
+![](https://img.shields.io/github/tag/doge24190/spid0ger.svg)
 
 用于生成url列表的爬虫
 
